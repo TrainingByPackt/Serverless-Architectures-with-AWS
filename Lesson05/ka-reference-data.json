@@ -1,0 +1,30 @@
+[
+  {
+    "Ticker": "AMZN",
+    "Company": "TopCompany"
+  },
+  {
+    "Ticker": "PSD",
+    "Company": "CompanyA"
+  },
+  {
+    "Ticker": "ASD",
+    "Company": "CompanyB"
+  },
+  {
+    "Ticker": "BMB",
+    "Company": "CompanyC"
+  },
+  {
+    "Ticker": "MMB",
+    "Company": "CompanyD"
+  },
+  {
+    "Ticker": "WAS",
+    "Company": "CompanyE"
+  },
+  {
+    "Ticker": "SAW",
+    "Company": "CompanyF"
+  }
+]

@@ -1,0 +1,1 @@
+Welcome to Lambda and S3 integration demo Class !!
