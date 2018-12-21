@@ -7,7 +7,10 @@
 
 # Serverless Architectures with AWS
 Serverless Architectures with AWS begins with an introduction to the serverless model and helps you get started with AWS and AWS Lambda. You'll also get to grips with other capabilities of the AWS Serverless Platform and see how AWS supports enterprise-grade serverless applications with and without Lambda.
-This course will guide you through deploying your first serverless project and exploring the capabilities of Amazon Athena, an interactive query service that makes it easy to analyze data in Amazon Simple Storage Service (Amazon S3) using standard SQL. You’ll also learn about AWS Glue, a fully managed extract, transfer, and load (ETL) service that makes categorizing data easy and cost-effective. You'll study how Amazon Kinesis makes it possible to unleash the potential of real-time data insights and analytics with capabilities such as Kinesis Data Streams, Kinesis Data Firehose, and Kinesis Data Analytics. Last but not least, you'll be equipped to combine Amazon Kinesis capabilities with AWS Lambda to create lightweight serverless architectures.
+
+This course will guide you through deploying your first serverless project and exploring the capabilities of Amazon Athena, an interactive query service that makes it easy to analyze data in Amazon Simple Storage Service (Amazon S3) using standard SQL. You’ll also learn about AWS Glue, a fully managed extract, transfer, and load (ETL) service that makes categorizing data easy and cost-effective.
+
+You'll study how Amazon Kinesis makes it possible to unleash the potential of real-time data insights and analytics with capabilities such as Kinesis Data Streams, Kinesis Data Firehose, and Kinesis Data Analytics. Last but not least, you'll be equipped to combine Amazon Kinesis capabilities with AWS Lambda to create lightweight serverless architectures.
 
 By the end of the course, you will be ready to create and run your first serverless application that takes advantage of the high availability, security, performance, and scalability of AWS.
 
